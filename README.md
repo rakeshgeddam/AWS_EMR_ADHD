@@ -16,7 +16,8 @@ This project demonstrates a scalable, cloud-native ETL pipeline and business int
 - **Tools**: GitHub for version control, PlantUML for system design documentation.
 
 ## System Design
-![Architecture_Diagram](https://github.com/user-attachments/assets/6b62ea78-6c9f-4a46-abe0-89ebee8eefa9)
+![Architecture_Diagram](https://github.com/user-attachments/assets/eace00d1-1450-4c15-b858-3e7fc138a6c3)
+
 
 The pipeline flows as follows:
 1. **Local Data Generation**: Synthetic ADHD screen time data generated with Python and Faker, saved as CSV.
@@ -34,7 +35,7 @@ The pipeline flows as follows:
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/rakeshgeddam/adhd-screen-time-dashboard.git
+   git clone https://github.com/rakeshgeddam/AWS_EMR_ADHD.git
    cd adhd-screen-time-dashboard
    ```
 
